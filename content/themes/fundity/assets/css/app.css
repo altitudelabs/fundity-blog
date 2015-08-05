@@ -4,22 +4,22 @@
  */
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('/assets/fonts/proximanova-regular-webfont.eot');
-  src: url('/assets/fonts/proximanova-regular-webfont.woff') format('woff'), url('/assets/fonts/proximanova-regular-webfont.ttf') format('truetype'), url('/assets/fonts/proximanova-regular-webfont#ProximaNovaBlRegular') format('svg');
+  src: url('/blog/assets/fonts/proximanova-regular-webfont.eot');
+  src: url('/blog/assets/fonts/proximanova-regular-webfont.woff') format('woff'), url('/blog/assets/fonts/proximanova-regular-webfont.ttf') format('truetype'), url('/blog/assets/fonts/proximanova-regular-webfont#ProximaNovaBlRegular') format('svg');
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('/assets/fonts/proximanova-semibold-webfont.eot');
-  src: url('/assets/fonts/proximanova-semibold-webfont.woff') format('woff'), url('/assets/fonts/proximanova-semibold-webfont.ttf') format('truetype'), url('/assets/fonts/proximanova-semibold-webfont#proxima_nova_ltbold') format('svg');
+  src: url('/blog/assets/fonts/proximanova-semibold-webfont.eot');
+  src: url('/blog/assets/fonts/proximanova-semibold-webfont.woff') format('woff'), url('/blog/assets/fonts/proximanova-semibold-webfont.ttf') format('truetype'), url('/blog/assets/fonts/proximanova-semibold-webfont#proxima_nova_ltbold') format('svg');
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('/assets/fonts/proximanova-light-webfont.eot');
-  src: url('/assets/fonts/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/proximanova-light-webfont.woff') format('woff'), url('/assets/fonts/proximanova-light-webfont.ttf') format('truetype'), url('/assets/fonts/proximanova-light-webfont.svg#proxima_nova_ltregular') format('svg');
+  src: url('/blog/assets/fonts/proximanova-light-webfont.eot');
+  src: url('/blog/assets/fonts/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'), url('/blog/assets/fonts/proximanova-light-webfont.woff') format('woff'), url('/blog/assets/fonts/proximanova-light-webfont.ttf') format('truetype'), url('/blog/assets/fonts/proximanova-light-webfont.svg#proxima_nova_ltregular') format('svg');
   font-weight: 300;
   font-style: normal; }
 
@@ -27,126 +27,126 @@
   display: inline-block; }
 
 .fundity.home-decision, .navbar-default .navbar-brand .home-decision.icon, .navbar-inverted .navbar-brand span.home-decision {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -786px;
   background-size: 299px 1100px;
   width: 150px;
   height: 150px; }
 
 .fundity.home-fast, .navbar-default .navbar-brand .home-fast.icon, .navbar-inverted .navbar-brand span.home-fast {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -634px;
   background-size: 299px 1100px;
   width: 162px;
   height: 150px; }
 
 .fundity.home-free, .navbar-default .navbar-brand .home-free.icon, .navbar-inverted .navbar-brand span.home-free {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -938px;
   background-size: 299px 1100px;
   width: 162px;
   height: 162px; }
 
 .fundity.home-secure, .navbar-default .navbar-brand .home-secure.icon, .navbar-inverted .navbar-brand span.home-secure {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -516px;
   background-size: 299px 1100px;
   width: 93px;
   height: 116px; }
 
 .fundity.home-service, .navbar-default .navbar-brand .home-service.icon, .navbar-inverted .navbar-brand span.home-service {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -398px;
   background-size: 299px 1100px;
   width: 121px;
   height: 116px; }
 
 .fundity.home-transparent, .navbar-default .navbar-brand .home-transparent.icon, .navbar-inverted .navbar-brand span.home-transparent {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -280px;
   background-size: 299px 1100px;
   width: 139px;
   height: 116px; }
 
 .fundity.login-email, .navbar-default .navbar-brand .login-email.icon, .navbar-inverted .navbar-brand span.login-email {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -28px;
   background-size: 299px 1100px;
   width: 24px;
   height: 15px; }
 
 .fundity.login-name, .navbar-default .navbar-brand .login-name.icon, .navbar-inverted .navbar-brand span.login-name {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -64px;
   background-size: 299px 1100px;
   width: 16px;
   height: 19px; }
 
 .fundity.login-password, .navbar-default .navbar-brand .login-password.icon, .navbar-inverted .navbar-brand span.login-password {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -85px;
   background-size: 299px 1100px;
   width: 16px;
   height: 20px; }
 
 .fundity.logo-lg, .navbar-default .navbar-brand .logo-lg.icon, .navbar-inverted .navbar-brand span.logo-lg {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -211px;
   background-size: 299px 1100px;
   width: 299px;
   height: 67px; }
 
 .fundity.logo-light, .navbar-default .navbar-brand .logo-light.icon, .navbar-default .navbar-brand .icon, .navbar-inverted .navbar-brand span.logo-light {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -153px;
   background-size: 299px 1100px;
   width: 121px;
   height: 27px; }
 
 .fundity.logo, .navbar-default .navbar-brand .logo.icon, .navbar-inverted .navbar-brand span.logo, .navbar-inverted .navbar-brand span {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -182px;
   background-size: 299px 1100px;
   width: 121px;
   height: 27px; }
 
 .fundity.tick-lg, .navbar-default .navbar-brand .tick-lg.icon, .navbar-inverted .navbar-brand span.tick-lg {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px 0px;
   background-size: 299px 1100px;
   width: 11px;
   height: 7px; }
 
 .fundity.tick-sm, .navbar-default .navbar-brand .tick-sm.icon, .navbar-inverted .navbar-brand span.tick-sm {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -9px;
   background-size: 299px 1100px;
   width: 11px;
   height: 7px; }
 
 .fundity.tick-white, .navbar-default .navbar-brand .tick-white.icon, .navbar-inverted .navbar-brand span.tick-white {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -18px;
   background-size: 299px 1100px;
   width: 12px;
   height: 8px; }
 
 .fundity.topnav-language-light, .navbar-default .navbar-brand .topnav-language-light.icon, .navbar-default .navbar-nav > li.dropdown-language a.dropdown-toggle span, .navbar-inverted .navbar-brand span.topnav-language-light {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -130px;
   background-size: 299px 1100px;
   width: 21px;
   height: 21px; }
 
 .fundity.topnav-language, .navbar-default .navbar-brand .topnav-language.icon, .navbar-inverted .navbar-brand span.topnav-language, .navbar-inverted .navbar-nav > li.dropdown-language a.dropdown-toggle span {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -107px;
   background-size: 299px 1100px;
   width: 21px;
   height: 21px; }
 
 .fundity.upload-document, .navbar-default .navbar-brand .upload-document.icon, .navbar-inverted .navbar-brand span.upload-document {
-  background-image: url("/assets/images/spritesheet.png");
+  background-image: url("/blog/assets/images/spritesheet.png");
   background-position: 0px -45px;
   background-size: 299px 1100px;
   width: 27px;
@@ -339,8 +339,8 @@ td, th {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot');
-  src: url('/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff') format('woff'), url('/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf') format('truetype'), url('/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg'); }
+  src: url('/blog/assets/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot');
+  src: url('/blog/assets/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/blog/assets/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.woff') format('woff'), url('/blog/assets/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf') format('truetype'), url('/blog/assets/bower_components/bootstrap-sass/assets/fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg'); }
 
 .glyphicon {
   position: relative;

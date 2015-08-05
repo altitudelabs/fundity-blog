@@ -73,7 +73,7 @@ module.exports = function(grunt) {
             release: {
                 options: {
                     includePaths: [
-                        'bower_components',
+                        'assets/bower_components',
                         'assets/sass'
                     ]
                 },
@@ -166,7 +166,7 @@ module.exports = function(grunt) {
         // Open ghost page for development
         open: {
             dev: {
-                path: 'http://127.0.0.1:<%= ghunt.port %>'
+                path: 'http://127.0.0.1:<%= ghunt.port %>/blog'
             }
         }
 
