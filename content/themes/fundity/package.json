@@ -1,7 +1,7 @@
 {
   "name": "Fundity",
   "version": "1.0.0",
-  "author": "Justin Yek <justin@evalend.com>",
+  "author": "Justin Yek <justin@fundityapp.com>",
   "description": "Fundity blog",
   "license": "MIT",
   "devDependencies": {
